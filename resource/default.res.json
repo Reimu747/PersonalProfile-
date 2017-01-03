@@ -1,0 +1,25 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,back_jpg,back2_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "back_jpg",
+			"type": "image",
+			"url": "assets/back.jpg"
+		},
+		{
+			"name": "back2_jpg",
+			"type": "image",
+			"url": "assets/back2.jpg"
+		}
+	]
+}
